@@ -1,0 +1,49 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+header{
+    background-color: #483D8B;
+    height: 70px;
+    width: 100%;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.transparent {
+    background: transparent;
+    border: 0;
+}
+
+.lupa {
+    width: 20px;
+    height: 17px;
+    margin: 10px;
+}
+
+.pesquisar{
+    margin-bottom: 20px;
+    margin-top: 8px;
+    width: 300px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: #483D8B;
+}
+
+
+
+
+
